@@ -22,9 +22,9 @@ public class DataTypes {
 	boolean isComing = true;
 	System.out.println(isComing);
 	
-	 
-
-	
+	// good job
+  //  int c = 12;
+//	int d = 13;
 	
 	}
 

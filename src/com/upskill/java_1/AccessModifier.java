@@ -13,7 +13,9 @@ public class AccessModifier {
     
     
   //   git test
-  //  int a =2;
+  //  int a =2
+    
+ //   int b = 2;
 	}
   
 
