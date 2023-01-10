@@ -26,6 +26,7 @@ public class DataTypes {
   //  int c = 12;
 //	int d = 13;
 	//  int e =2;
+	int w = 4;
 	}
 
 }
