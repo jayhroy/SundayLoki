@@ -30,6 +30,7 @@ public class DataTypes {
 	//git test
 	int f = 5;
 	int h = 8;
+	int j = 9;
 	}
 
 }
