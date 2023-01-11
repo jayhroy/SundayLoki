@@ -22,10 +22,15 @@ public class DataTypes {
 	boolean isComing = true;
 	System.out.println(isComing);
 	
-	 
-
-	
-	
+	// good job
+  //  int c = 12;
+//	int d = 13;
+	//  int e =2;
+	int w = 4;
+	//git test
+	int f = 5;
+	int h = 8;
+	int j = 9;
 	}
 
 }
