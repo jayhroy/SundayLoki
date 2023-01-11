@@ -27,6 +27,8 @@ public class DataTypes {
 //	int d = 13;
 	//  int e =2;
 	int w = 4;
+	//git test
+	int f = 5;
 	}
 
 }
