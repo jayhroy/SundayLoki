@@ -25,10 +25,10 @@ public class DataTypes {
 	// good job
   //  int c = 12;
 //	int d = 13;
-	//  int e =2;
+	//  int e =7;
 	int w = 4;
 	//git test
-	int f = 5;
+	int f = 9;
 	int h = 8;
 	int j = 10;
 	}
